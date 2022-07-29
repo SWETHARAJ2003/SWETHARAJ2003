@@ -1,0 +1,25 @@
+<html>
+<head>
+MOVIES
+<title>
+<marquee>
+KOLLYWOOD
+<marquee>
+<marquee>
+<img src="--------------
+</marquee>
+</title>
+</head>
+<body>
+<h2><u>MOVIES LIST</u></h2>
+<ul>
+<li><b>DON</b></li>
+<img src="----------------------
+<li><b><REMO</b></li>
+<img src="---------------------
+<li><b><PREMAM</b></li>
+<img src="---------------------
+<li><b><VIKRAM</b></li>
+<img src="---------------------
+</ul>
+
